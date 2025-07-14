@@ -1,0 +1,41 @@
+Score,Text,clean_text,sentiment
+5,"Amazing product, loved it completely!",amazing product loved it completely,positive
+4,Very useful and well designed.,very useful and well designed,positive
+1,"Terrible quality, not recommended.",terrible quality not recommended,negative
+2,"Broke within a day, awful.",broke within a day awful,negative
+5,Perfect! Works as expected.,perfect works as expected,positive
+4,Happy with the performance.,happy with the performance,positive
+1,"Do not buy this, waste of money.",do not buy this waste of money,negative
+2,"Very disappointed, bad experience.",very disappointed bad experience,negative
+5,"Top-notch experience, will buy again!",topnotch experience will buy again,positive
+1,Horrible packaging and broken item.,horrible packaging and broken item,negative
+4,Great battery life and speed.,great battery life and speed,positive
+5,"Totally satisfied, five stars.",totally satisfied five stars,positive
+2,Low quality materials used.,low quality materials used,negative
+4,Smooth and reliable product.,smooth and reliable product,positive
+1,Doesn't match description at all.,doesnt match description at all,negative
+2,Malfunctioned after one use.,malfunctioned after one use,negative
+5,"Absolutely fantastic, no issues.",absolutely fantastic no issues,positive
+5,Works flawlessly!,works flawlessly,positive
+1,"Cheap quality, regretting purchase.",cheap quality regretting purchase,negative
+1,Worst product I’ve used.,worst product i’ve used,negative
+4,Fast delivery and quality build.,fast delivery and quality build,positive
+2,Not worth the price.,not worth the price,negative
+5,Exceeded my expectations!,exceeded my expectations,positive
+4,Solid performance overall.,solid performance overall,positive
+1,Stopped working after a week.,stopped working after a week,negative
+1,Disappointing for the price.,disappointing for the price,negative
+5,Highly recommend this model.,highly recommend this model,positive
+5,Will buy again for sure.,will buy again for sure,positive
+2,Not durable and noisy.,not durable and noisy,negative
+4,Sturdy and good finish.,sturdy and good finish,positive
+4,Loved the camera quality.,loved the camera quality,positive
+2,Battery drains quickly.,battery drains quickly,negative
+1,Worst customer support.,worst customer support,negative
+5,Reliable and efficient.,reliable and efficient,positive
+5,Super smooth experience!,super smooth experience,positive
+2,Too fragile for daily use.,too fragile for daily use,negative
+1,Terrible after-sale support.,terrible aftersale support,negative
+4,Feels premium in hand.,feels premium in hand,positive
+5,Great build and compact.,great build and compact,positive
+4,Good product for the price.,good product for the price,positive
